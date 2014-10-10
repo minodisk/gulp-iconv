@@ -11,7 +11,6 @@ defOpts =
 
 module.exports = (opts = {}) ->
   {decoding, encoding} = assign clone(defOpts), opts
-  console.log decoding, '->', encoding
 
   through.obj (file, enc, callback) ->
     if file.isNull()
