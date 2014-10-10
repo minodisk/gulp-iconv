@@ -52,7 +52,7 @@ The encoding of output stream. See [Supported encodings](https://github.com/asht
 [travis-image]: https://secure.travis-ci.org/minodisk/gulp-html-rebuild.svg?branch=master
 [coveralls-image]: https://img.shields.io/coveralls/minodisk/gulp-html-rebuild.svg
 [coveralls-url]: https://coveralls.io/r/minodisk/gulp-html-rebuild
-[dependencies-image]: http://img.shields.io/david/trymore/pencil.svg?style=flat-square
-[dependencies-url]: https://david-dm.org/trymore/pencil
-[dev-dependencies-image]: http://img.shields.io/david/dev/trymore/pencil.svg?style=flat-square
-[dev-dependencies-url]: https://david-dm.org/trymore/pencil#info=devDependencies
+[dependencies-image]: http://img.shields.io/david/minodisk/gulp-iconv.svg?style=flat-square
+[dependencies-url]: https://david-dm.org/minodisk/gulp-iconv
+[dev-dependencies-image]: http://img.shields.io/david/dev/minodisk/gulp-iconv.svg?style=flat-square
+[dev-dependencies-url]: https://david-dm.org/minodisk/gulp-iconv#info=devDependencies
