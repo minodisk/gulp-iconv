@@ -1,4 +1,4 @@
-# [gulp](http://gulpjs.com)-html-rebuild [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![dependencies][dependencies-image]][dependencies-url] [![dev dependencies][dev-dependencies-image]][dev-dependencies-url]
+# [gulp](http://gulpjs.com)-iconv [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![dependencies][dependencies-image]][dependencies-url] [![dev dependencies][dev-dependencies-image]][dev-dependencies-url]
 
 > Run [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) and translate encoding.
 
@@ -46,12 +46,12 @@ Default: `'utf8'`
 The encoding of output stream. See [Supported encodings](https://github.com/ashtuchkin/iconv-lite#supported-encodings).
 
 
-[npm-url]: https://npmjs.org/package/gulp-html-rebuild
-[npm-image]: https://badge.fury.io/js/gulp-html-rebuild.svg
-[travis-url]: http://travis-ci.org/minodisk/gulp-html-rebuild
-[travis-image]: https://secure.travis-ci.org/minodisk/gulp-html-rebuild.svg?branch=master
-[coveralls-image]: https://img.shields.io/coveralls/minodisk/gulp-html-rebuild.svg
-[coveralls-url]: https://coveralls.io/r/minodisk/gulp-html-rebuild
+[npm-image]: http://img.shields.io/npm/v/gulp-iconv.svg
+[npm-url]: https://npmjs.org/package/gulp-iconv
+[travis-image]: http://img.shields.io/travis/minodisk/gulp-iconv.svg?style=flat-square
+[travis-url]: http://travis-ci.org/minodisk/gulp-iconv
+[coveralls-image]: https://img.shields.io/coveralls/minodisk/gulp-iconv.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/minodisk/gulp-iconv
 [dependencies-image]: http://img.shields.io/david/minodisk/gulp-iconv.svg?style=flat-square
 [dependencies-url]: https://david-dm.org/minodisk/gulp-iconv
 [dev-dependencies-image]: http://img.shields.io/david/dev/minodisk/gulp-iconv.svg?style=flat-square
