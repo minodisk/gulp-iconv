@@ -46,7 +46,7 @@ Default: `'utf8'`
 The encoding of output stream. See [Supported encodings](https://github.com/ashtuchkin/iconv-lite#supported-encodings).
 
 
-[npm-image]: http://img.shields.io/npm/v/gulp-iconv.svg
+[npm-image]: http://img.shields.io/npm/v/gulp-iconv.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/gulp-iconv
 [travis-image]: http://img.shields.io/travis/minodisk/gulp-iconv.svg?style=flat-square
 [travis-url]: http://travis-ci.org/minodisk/gulp-iconv
