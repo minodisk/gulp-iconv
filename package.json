@@ -1,6 +1,6 @@
 {
   "name": "gulp-iconv",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "gulp-iconv ==========",
   "main": "lib/gulp-iconv.js",
   "dependencies": {
